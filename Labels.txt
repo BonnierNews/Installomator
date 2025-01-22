@@ -29,7 +29,7 @@ airtamepkg
 aldente
 alephone
 alfred
-alttab
+altserver
 amazonchime
 amazoncorretto11jdk
 amazoncorretto17jdk
@@ -169,6 +169,9 @@ chromeremotedesktop
 chronoagent
 chronosync
 cinema4d
+cinema4d2023
+cinema4d2024
+cinema4d2025
 cisdem-documentreader
 citrixworkspace
 cleartouchcollage
@@ -208,7 +211,7 @@ dbeaverce
 debookee
 dedoose
 deepl
-defaultfolderx
+deezer
 depnotify
 desktoppr
 detectxswift
@@ -221,7 +224,7 @@ diskdrill
 diskspace
 displaylinkmanager
 displaylinkmanagergraphicsconnectivity
-docker
+displaynote
 dockutil
 dragonframe5
 drawio
@@ -246,7 +249,7 @@ ecosiabrowser
 egnyte
 egnytecore
 egnytewebedit
-element
+elasticvue
 elgatocamerahub
 elgatostreamdeck
 emacs
@@ -256,6 +259,7 @@ eshareosx
 espanso
 etrecheck
 etssecurebrowser
+eul
 evercast
 evernote
 everweb
@@ -272,6 +276,7 @@ filemakerpro
 filezilla
 finaldraft11
 finaldraft12
+finaldraft13
 findanyfile
 firefox
 firefox_da
@@ -318,6 +323,7 @@ googleearth
 googlejapaneseinput
 googlesoftwareupdate
 gosign
+gotiengviet
 gotomeeting
 gpgsuite
 gpgsync
@@ -375,6 +381,7 @@ jamfconnectconfiguration
 jamfcpr
 jamfmigrator
 jamfpppcutility
+jamfprintermanager
 jamfreenroller
 jamovi
 jasp
@@ -397,6 +404,7 @@ jetbrainsrubymine
 jetbrainstoolbox
 jetbrainswebstorm
 jitsimeet
+joplin
 jre8
 jumpdesktop
 jupyterlab
@@ -420,6 +428,7 @@ krita
 lastpass
 latexit
 launchbar
+launchcontrol
 lcadvancedvpnclient
 lexarrecoverytool
 lgcalibrationstudio
@@ -431,7 +440,7 @@ libreofficelanguagepack_intl
 lifesize
 lightburn
 linear
-logioptions
+linearmouse
 logitechoptions
 logitechoptionsplus
 logitune
@@ -458,11 +467,13 @@ malwarebytes
 marathon
 marathon2
 marathoninfinity
+masterfader
 masv
 mattermost
 maxonapp
 mdmwatchdog
 meetingbar
+meistertask
 mendeleyreferencemanager
 menumeters
 merlinproject
@@ -513,7 +524,7 @@ microsoftwordreset
 mightymike
 mindmanager
 miniconda
-miro
+minisim
 mist
 mist-cli
 mkuser
@@ -567,6 +578,7 @@ nvivo13
 nvivo14
 nweasecuretestingbrowser
 obs
+obsbotcenter
 obsbotwebcam
 obsidian
 odrive
@@ -586,6 +598,7 @@ onyx
 openvpnconnect
 openvpnconnectv3
 opera
+orbstack
 orcaslicer
 origin
 orion
@@ -612,15 +625,20 @@ plantronicshub
 platypus
 plexmediaserver
 plisteditpro
+podman
 podmandesktop
+podmandesktopairgap
+polleverywhere
 polylens
 popsql
+portingkit
 postman
 powermonitor
 prism10
 prism9
 pritunl
 privileges
+privileges2
 processing3
 processing4
 proctortrack
@@ -643,6 +661,7 @@ r
 raindropio
 rancherdesktop
 rapidapi
+rawtherapee
 raycast
 realvncondemandassist
 realvncserver
@@ -679,6 +698,7 @@ rogueamoebasoundsource5
 royaltsx
 rstudio
 rustdesk
+safeexambrowser
 salesforcecli
 santa
 scaleft
@@ -701,6 +721,7 @@ shotcut
 shottr
 sidekick
 signal
+signiantapp
 silnite
 sipgateclinq
 sirimote
@@ -739,10 +760,12 @@ splashtopsos
 splashtopstreamer
 splice
 spotify
+sqlitebrowser
 sqlpropostgres
 sqlprostudio
 starface72x
 starface73x
+starface81x
 starfaceuccclient
 stats
 steelseriesengine
@@ -776,6 +799,7 @@ teamviewerhostcustom
 teamviewerqs
 teamviewerqscustom
 techsmithcapture
+teladocproviderinstaller
 telegram
 tembo
 tencentmeeting
@@ -801,6 +825,7 @@ trapcode
 trex
 tunnelbear
 tunnelblick
+tuple
 typeface
 typinator
 typora
@@ -817,6 +842,7 @@ venturablocker
 veracrypt
 vfx
 vimac
+vimcal
 virtualbox
 virtualbuddy
 viscosity
