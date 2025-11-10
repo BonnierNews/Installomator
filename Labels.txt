@@ -4,7 +4,9 @@
 4kvideodownloader
 4kvideodownloaderplus
 8x8
+abetterfinderattributes7
 abetterfinderrename11
+abetterfinderrename12
 abletonlive12intro
 abletonlive12lite
 abletonlive12standard
@@ -53,6 +55,7 @@ anastasiysextensionmanager
 androidfiletransfer
 androidstudio
 anotherredisdesktopmanager
+antconc
 anydesk
 apachedirectorystudio
 apachenetbeans
@@ -77,6 +80,7 @@ arq7
 arturiamcc
 arturiasoftwarecenter
 asana
+aspera
 asperaconnect
 atext
 atextlegacy
@@ -112,6 +116,9 @@ bibdesk
 bitrix24
 bitwarden
 bitwigstudio
+blackhole16ch
+blackhole2ch
+blackhole64ch
 blender
 boop
 boxdrive
@@ -126,6 +133,7 @@ bruno
 bugdom
 burpsuitecommunityedition
 burpsuiteprofessional
+busycal
 busycontacts
 buttercup
 caffeine
@@ -145,6 +153,7 @@ camtasia2025
 camunda
 canva
 carboncopycloner
+cardpresso
 catoclient
 charles
 chatgpt
@@ -254,6 +263,7 @@ diskspace
 displaylinkmanager
 docker
 dockutil
+doctolib
 dracoon
 dragonframe2024
 dragonframe2025
@@ -261,7 +271,9 @@ dragonframe5
 drawio
 drift
 dropbox
+dropboxenterprise
 droplr
+drracket
 druvainsync
 dstny
 duckduckgo
@@ -280,7 +292,7 @@ eclipsetemurin17
 eclipsetemurin21
 eclipsetemurin8
 ecosiabrowser
-egnyte
+editshare-connect
 egnytecore
 egnytewebedit
 elasticvue
@@ -303,17 +315,21 @@ eul
 evercast
 evernote
 everweb
+examplify
 exelbanstats
 exifrenamer
 expressvpn
+extensisconnect
 facebookmessenger
 fantastical
 fastscripts
 favro
 fellow
+fierycommandworkstation
 figma
 filemakerpro
 filmlab
+finalcutprocontent
 finaldraft11
 finaldraft12
 finaldraft13
@@ -407,6 +423,7 @@ hype
 hyper
 i1profiler
 ibarcoder
+ibmaspera
 ibmnotifier
 ice
 icons
@@ -440,6 +457,7 @@ jamfcheck
 jamfconnect
 jamfconnectconfiguration
 jamfconnectlaunchagent
+jamfconnectlogin
 jamfcpr
 jamfmigrator
 jamfpppcutility
@@ -534,6 +552,7 @@ macpass
 macports
 mactex
 mactracker
+macvector
 magicbullet
 mailmate
 mailtooutlook
@@ -545,6 +564,7 @@ marathoninfinity
 masterfader
 masv
 mattermost
+maxcycling74
 maxonapp
 mdmwatchdog
 meetingbar
@@ -646,6 +666,7 @@ netnewswire
 netspot
 networksharemounter
 nextcloud
+nextcloudclassic
 nextcloudtalk
 nodejs
 nodejslts
@@ -668,6 +689,7 @@ obs
 obsbotcenter
 obsbotwebcam
 obsidian
+obsioscamera
 odrive
 oktaverify
 ollama
@@ -784,6 +806,7 @@ retrobatch
 rhino7
 rhino8
 ricohpsprinters
+ricohtheta
 ringcentralapp
 ringcentralclassicapp
 ringcentralmeetings
@@ -897,7 +920,7 @@ sublimetext
 suitestudio
 supercollider
 superhuman
-supportapp
+superwhisper
 surfdrive
 suspiciouspackage
 swiftdialog
@@ -916,6 +939,7 @@ tabby
 tableaudesktop
 tableaupublic
 tableaureader
+tableplus
 tageditor
 tailscale
 talkdeskcxcloud
@@ -994,6 +1018,8 @@ vagrant
 vanilla
 venturablocker
 veracrypt
+veracrypt-fuse-t
+veracrypt-macfuse
 vernierspectralanalysis
 vfx
 viennaassistant
