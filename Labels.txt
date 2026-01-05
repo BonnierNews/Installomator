@@ -25,6 +25,7 @@ adobedigitaleditions
 adobereaderdc
 adobereaderdc-install
 adobereaderdc-update
+affinityapp
 affinitydesigner2
 affinityphoto2
 affinitypublisher2
@@ -69,6 +70,7 @@ applesfcompact
 applesfmono
 applesfpro
 applesfsymbols
+appsanywhere
 aquamacs
 aquaskk
 arcbrowser
@@ -120,6 +122,7 @@ blackhole16ch
 blackhole2ch
 blackhole64ch
 blender
+blitzit
 boop
 boxdrive
 boxsync
@@ -142,7 +145,6 @@ calcservice
 calibre
 calibriteprofiler
 camostudio
-camtasia
 camtasia2019
 camtasia2020
 camtasia2021
@@ -239,6 +241,7 @@ cytoscape
 daisydisk
 dangerzone
 darktable
+daruma
 daylite
 dbeaverce
 dbvisualizer
@@ -529,7 +532,9 @@ linear
 linearmouse
 livereplayer
 lmstudio
+logighub
 logioptions
+logitechghub
 logitechoptions
 logitechoptionsplus
 logitechoptionsplusoffline
@@ -755,6 +760,7 @@ portingkit
 postgresapp
 postman
 powermonitor
+praat
 prism10
 prism9
 pritunl
@@ -768,6 +774,7 @@ promiseutility
 promiseutilityr
 proofpointautoupdater
 propresenter7
+protondrive
 protonvpn
 proxyman
 prune
@@ -868,13 +875,13 @@ sloth
 smartgit
 smartsheet
 smartsvn
-snagit
 snagit2019
 snagit2020
 snagit2021
 snagit2022
 snagit2023
 snagit2024
+snagit2025
 snapgene
 snapgeneviewer
 soapuiopensource
@@ -1059,6 +1066,7 @@ weprint
 whatroute
 whatsapp
 whimsical
+whiterabbit
 windsurf
 wireshark
 wordservice
