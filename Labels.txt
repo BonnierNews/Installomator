@@ -127,6 +127,7 @@ bbedit
 bbeditpkg
 beamstudio
 beekeeperstudio
+beeperdesktop
 betterdisplay
 bettershot
 bettertouchtool
@@ -331,6 +332,7 @@ diskdrill
 diskspace
 displaylinkmanager
 docker
+dockersbx
 dockutil
 doctolib
 domzilla-caffeine
@@ -383,6 +385,7 @@ emdash
 enpass
 enteauth
 epicgameslauncher
+epidemicsound
 eposconnect
 epsonprintlayout
 escrowbuddy
@@ -483,6 +486,7 @@ goland
 golang
 googleadseditor
 googlechrome
+googlechromecanary
 googlechromeenterprise
 googlechromepkg
 googledrive
@@ -511,6 +515,7 @@ guardianbrowser
 guardlydata
 gyazo
 gyazogif
+hammerspoon
 hancock
 handbrake
 handy
@@ -552,6 +557,7 @@ ilok
 imageoptim
 imazing3
 imazingprofileeditor
+incidentio
 inetclearreportsdesigner
 infinitealgebra1
 infinitealgebra2
@@ -641,6 +647,7 @@ keyshot12
 keyshot2024
 keystoreexplorer
 kicad
+kilobat
 kimplusclientmodul
 kiro
 kirocli
@@ -703,6 +710,7 @@ macfuse
 macoslaps
 macpass
 macports
+macsfancontrol
 macshot
 mactex
 mactexbasic
@@ -742,6 +750,7 @@ microsoftazurestorageexplorer
 microsoftcompanyportal
 microsoftdefender
 microsoftdefenderatp
+microsoftdotnetsdk10
 microsoftedge
 microsoftedgebeta
 microsoftedgeconsumerstable
@@ -846,13 +855,13 @@ nodejs
 nodejslts
 nomachine
 nomad
-nomadlogin
 nordlayer
 nordvpn
 notion
 notioncalendar
 nova
 nps-santa
+npssanta
 npssantafull
 nudge
 nudgesuite
@@ -873,6 +882,7 @@ ollama
 omnidisksweeper
 omnifocus3
 omnifocus4
+omnigent
 omnigraffle6
 omnigraffle7
 omnioutliner5
@@ -894,6 +904,7 @@ openvpnconnect
 openvpnconnectv3
 openworkenterprise
 opera
+operagx
 oraclesqldeveloper
 orbstack
 orcaslicer
@@ -956,6 +967,7 @@ privileges
 privileges2
 processing3
 processing4
+proclaim
 proctortrack
 projectplace
 promiseutility
@@ -988,6 +1000,8 @@ rancherdesktop
 rapidapi
 rawtherapee
 raycast
+realvncconnect
+realvncconnect8
 realvncondemandassist
 realvncserver
 reaper
@@ -995,6 +1009,7 @@ recordist
 rectangle
 redcanarymacmonitor
 redgiant
+redisinsight
 redshift
 redshiftlite
 reflector4
@@ -1174,7 +1189,6 @@ teamviewerqs
 teamviewerqscustom
 teamwire
 techsmithaudiate
-techsmithcapture
 teladocproviderinstaller
 telegram
 tembo
@@ -1259,7 +1273,6 @@ veracrypt
 veracrypt-fuse-t
 veracrypt-macfuse
 vernierspectralanalysis
-vfx
 viennaassistant
 vimcal
 virtualbox
