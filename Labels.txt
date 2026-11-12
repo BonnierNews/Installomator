@@ -110,6 +110,7 @@ automounter
 autopkgr
 avertouch
 aviatrix
+awdlguard
 awscli2
 awsvpnclient
 axurerp10
@@ -265,7 +266,6 @@ cluefull
 cmake
 cocoapods
 coconutbattery
-code42
 codemeter
 coderunner
 codex
@@ -305,7 +305,6 @@ dcp-o-matic
 dcp-o-matic2
 dcpomatic
 dcpomatic2
-debookee
 decimatorucp
 dedoose
 deepl
@@ -402,7 +401,6 @@ exifrenamer
 exocharts
 expressvpn
 extensisconnect
-facebookmessenger
 fantastical
 fastscripts
 fathom
@@ -529,7 +527,6 @@ hmavpn
 homebrew
 homerow
 hoppscotch
-horos
 hot
 houdahspot
 hpclick
@@ -681,6 +678,7 @@ lightburn
 lightkey
 linear
 linearmouse
+littlekeebo
 livereplayer
 lmstudio
 logighub
@@ -854,7 +852,6 @@ nexusshell
 nodejs
 nodejslts
 nomachine
-nomad
 nordlayer
 nordvpn
 notion
@@ -908,7 +905,6 @@ operagx
 oraclesqldeveloper
 orbstack
 orcaslicer
-origin
 orion
 orkadesktop
 osquery
@@ -1064,6 +1060,7 @@ scribus
 scrollreverser
 sdnotary
 sdnotary2
+seconddisplay
 secretive
 selfcontrol
 sequelace
@@ -1294,6 +1291,7 @@ vonagebusiness
 vorssaint
 vpntracker365
 vscodium
+vuescan
 vuescanintel
 vuescanuni
 vysor
